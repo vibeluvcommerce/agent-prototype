@@ -1,0 +1,26 @@
+{
+  "product_name": "户外储能电源(改版)",
+  "pcb": {
+    "trace_width_mm": 0.35,
+    "required_width_mm": 0.30
+  },
+  "structure": {
+    "beam_stress_mpa": 168.0,
+    "beam_limit_mpa": 250.0
+  },
+  "discharge": {
+    "soc": 0.78,
+    "voltage_v": 51.2,
+    "temp_c": 38.2,
+    "status": "normal"
+  },
+  "safety": {
+    "thermal_margin_c": 16.0,
+    "thermal_limit_c": 20.0,
+    "ip_rating": "IP65"
+  },
+  "inspection": {
+    "item": "户外储能电源(改版)",
+    "fpy_30d": 0.991
+  }
+}

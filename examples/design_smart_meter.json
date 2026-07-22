@@ -1,0 +1,26 @@
+{
+  "product_name": "智能电表",
+  "pcb": {
+    "trace_width_mm": 0.25,
+    "required_width_mm": 0.30
+  },
+  "structure": {
+    "beam_stress_mpa": 210.0,
+    "beam_limit_mpa": 250.0
+  },
+  "discharge": {
+    "soc": 0.45,
+    "voltage_v": 51.2,
+    "temp_c": 46.0,
+    "status": "normal"
+  },
+  "safety": {
+    "thermal_margin_c": 19.2,
+    "thermal_limit_c": 20.0,
+    "ip_rating": "IP54"
+  },
+  "inspection": {
+    "item": "智能电表",
+    "fpy_30d": 0.972
+  }
+}
