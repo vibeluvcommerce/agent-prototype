@@ -2,6 +2,8 @@
 
 中文文档 | [English](README_EN.md)
 
+![Angineer Large Model (Open Source) 架构图](docs/angineer-architecture.jpg)
+
 工程领域多智能体原型 —— 按 "Angineer Large Model (Open Source)" 架构图实现，
 **完整落地全部 5 种 Agent 设计模式**：
 

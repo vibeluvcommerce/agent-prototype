@@ -2,6 +2,8 @@
 
 [中文文档](README.md) | English
 
+![Angineer Large Model (Open Source) architecture diagram](docs/angineer-architecture.jpg)
+
 An engineering-domain multi-agent prototype implementing the "Angineer Large Model (Open Source)"
 architecture diagram, with **all 5 agentic design patterns fully implemented**:
 
